@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bcf5faa1-a108-48d0-a9b2-d4acd4d5e651" name="Changes" comment="init commit">
+    <list default="true" id="bcf5faa1-a108-48d0-a9b2-d4acd4d5e651" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +63,8 @@
       <workItem from="1658479865721" duration="903000" />
       <workItem from="1658707992045" duration="277000" />
       <workItem from="1658710704990" duration="20605000" />
-      <workItem from="1659596298406" duration="13129000" />
+      <workItem from="1659596298406" duration="15520000" />
+      <workItem from="1659940874706" duration="3891000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1658479998908</created>
@@ -70,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658479998908</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="#4.10 Documentation - 완료">
+      <created>1659690164820</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1659690164820</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,7 +99,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+    <MESSAGE value="#4.10 Documentation - 완료" />
+    <option name="LAST_COMMIT_MESSAGE" value="#4.10 Documentation - 완료" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
